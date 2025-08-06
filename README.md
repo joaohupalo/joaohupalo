@@ -1,15 +1,15 @@
 <!-- Teste hehe -->
-# Olá! Sou o João Gabriel 👋
+# Hello! I'm João Gabriel 👋
 
-## 🚀 Sobre mim
-- 🎓 Estudante de **Sistemas de Informação** - 4º período
-- 💼 Atualmente fazendo **freelances com WordPress**
-- 📚 Estudando **Java** para aprimorar minhas habilidades em desenvolvimento
-- 📍 Paraná, Brasil
+## 🚀 About me
+- 🎓 **Information Systems** student - 4th semester
+- 💼 Currently doing **WordPress freelance projects**
+- 📚 Studying **Java** to improve my development skills
+- 📍 Paraná, Brazil
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Technologies & Tools
 
-### Linguagens
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,26 +17,24 @@
 ### CMS & Frameworks
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Banco de Dados
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🎯 Foco Atual
-- 🔨 Desenvolvendo projetos com **WordPress** como freelancer
-- 📖 Aprofundando conhecimentos em **Java** 
-- 🎓 Cursando **Sistemas de Informação** 
-- 🚀 Sempre em busca de novos desafios e aprendizados
+## 🎯 Current Focus
+- 🔨 Developing **WordPress** projects as a freelancer
+- 📖 Deepening my **Java** knowledge 
+- 🎓 Pursuing **Information Systems** degree
+- 🚀 Always seeking new challenges and learning opportunities
 
+## 🌱 What I'm learning
+- Improving my **Java** skills
+- Exploring development best practices
+- Studying software architecture
 
-
-## 🌱 O que estou aprendendo
-- Aprimorando habilidades em **Java**
-- Explorando melhores práticas de desenvolvimento
-- Estudando arquitetura de software
-
-## 📫 Como me encontrar
+## 📫 How to reach me
 - 📧 Email: **joaoghupalo@gmail.com**
-- 💼 Aberto para **freelances** e **oportunidades**
+- 💼 Open to **freelance work** and **opportunities**
 
 ---
 
-⭐ **"Sempre em evolução, sempre aprendendo!"** ⭐
+⭐ **"Always evolving, always learning!"** ⭐
