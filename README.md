@@ -2,7 +2,7 @@
 # Hello! I'm João Gabriel 👋
 
 ## 🚀 About me
-- 🎓 **Information Systems** student - 4th semester
+- 🎓 **Information Systems** student - 6th semester
 - 💼 Currently doing **WordPress freelance projects**
 - 📚 Studying **Java** to improve my development skills
 - 📍 Paraná, Brazil
